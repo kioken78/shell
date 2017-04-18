@@ -1,0 +1,13 @@
+#!/bin/sh
+exec 2>&1
+CONF=/etc/mydns.conf
+DAEMON=/usr/local/sbin/mydns
+if [ ! -x "$DAEMON" ]; then
+  echo "not executable: $DAEMON"
+  exit 1
+fi
+echo -17 > /proc/$$/oom_adj
+exec  \
+  env - PATH="/usr/local/bin:$PATH" \
+  envdir ./env \
+  $DAEMON -c $CONF -v

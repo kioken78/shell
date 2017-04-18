@@ -1,0 +1,27 @@
+#!/bin/bash
+HOST=$1
+CONFDIR=/etc/zabbix
+USERDIR=/etc/zabbix/zabbix_agentd.d
+
+# install zabbix agentd
+ssh ${HOST} "yum -y install php php-mysql zabbix22-agent sysstat bc"
+
+# deploy plugin scripts
+for i in `find /etc/zabbix -executable -type f`; do
+	scp ${i} ${HOST}:/etc/zabbix
+done
+
+# deploy conf file 
+scp /etc/zabbix/zabbix_agentd.conf ${HOST}:/etc/zabbix
+scp -r /etc/zabbix/zabbix_agentd.d ${HOST}:/etc/zabbix
+scp /root/setup/mysql/zabbix/.my.cnf ${HOST}:/var/lib/zabbix
+scp -r /var/lib/zabbix/percona ${HOST}:/var/lib/zabbix
+# start zabbix agentd
+echo "Starting zabbix agentd"
+ssh ${HOST} "/etc/init.d/zabbix-agentd restart && chkconfig zabbix-agentd on"
+chkconfig zabbix-agentd on
+
+# check log
+echo "Zabbix Agentd Logs come after here"
+echo "..."
+ssh ${HOST} "tail /var/log/zabbix/zabbix_agentd.log"

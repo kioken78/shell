@@ -1,0 +1,180 @@
+############ 2015-02-22 17:26:19 Start check host ############
+2015-02-22 17:26:19 : host 203.162.121.80 up
+2015-02-22 17:26:19 : host 203.162.121.81 up
+2015-02-22 17:26:19 : host 203.162.121.82 up
+2015-02-22 17:26:19 : host 203.162.121.83 up
+2015-02-22 17:26:19 : host 203.162.121.84 up
+2015-02-22 17:26:19 : host 203.162.121.85 up
+2015-02-22 17:26:19 : host 203.162.121.86 up
+2015-02-22 17:26:19 : host 203.162.121.87 up
+2015-02-22 17:26:19 : host 203.162.121.88 up
+2015-02-22 17:26:19 : Host 203.162.121.88 is not exist in zabbix. Adding ...
+{"jsonrpc":"2.0","result":{"hostids":["10432"]},"id":1}
+2015-02-22 17:26:19 : host 203.162.121.89 up
+2015-02-22 17:26:19 : host 203.162.121.90 up
+2015-02-22 17:26:19 : Host 203.162.121.90 is not exist in zabbix. Adding ...
+{"jsonrpc":"2.0","result":{"hostids":["10433"]},"id":1}
+2015-02-22 17:26:19 : host 203.162.121.91 up
+2015-02-22 17:26:19 : host 203.162.121.92 up
+2015-02-22 17:26:19 : host 203.162.121.93 up
+2015-02-22 17:26:19 : host 203.162.121.94 up
+2015-02-22 17:26:19 : host 203.162.121.95 down
+2015-02-22 17:26:19 : host 203.162.121.96 up
+2015-02-22 17:26:19 : host 203.162.121.97 up
+2015-02-22 17:26:19 : host 203.162.121.98 down
+2015-02-22 17:26:19 : Host 203.162.121.98 is offline but still be monitored by zabbix. Disabling ...
+{"jsonrpc":"2.0","result":{"hostids":["10127"]},"id":1}0
+2015-02-22 17:26:19 : host 203.162.121.99 up
+2015-02-22 17:26:19 : host 203.162.121.100 down
+2015-02-22 17:26:19 : host 203.162.121.101 up
+2015-02-22 17:26:19 : host 203.162.121.102 down
+2015-02-22 17:26:19 : host 203.162.121.103 up
+2015-02-22 17:26:19 : host 203.162.121.104 up
+2015-02-22 17:26:19 : host 203.162.121.105 up
+2015-02-22 17:26:19 : host 203.162.121.106 up
+2015-02-22 17:26:19 : host 203.162.121.107 down
+2015-02-22 17:26:19 : host 203.162.121.108 up
+2015-02-22 17:26:19 : host 203.162.121.109 up
+2015-02-22 17:26:19 : host 203.162.121.110 up
+2015-02-22 17:26:19 : host 203.162.121.111 up
+2015-02-22 17:26:19 : host 203.162.121.112 up
+2015-02-22 17:26:19 : Host 203.162.121.112 is exist but not monitord by zabbix. Enabling ...
+{"jsonrpc":"2.0","result":{"hostids":["10199"]},"id":1}0
+2015-02-22 17:26:19 : host 203.162.121.113 down
+2015-02-22 17:26:19 : host 203.162.121.114 up
+2015-02-22 17:26:19 : host 203.162.121.115 up
+2015-02-22 17:26:19 : host 203.162.121.116 up
+2015-02-22 17:26:19 : host 203.162.121.117 up
+2015-02-22 17:26:19 : Host 203.162.121.117 is not exist in zabbix. Adding ...
+{"jsonrpc":"2.0","result":{"hostids":["10434"]},"id":1}
+2015-02-22 17:26:19 : host 203.162.121.118 up
+2015-02-22 17:26:19 : host 203.162.121.119 up
+2015-02-22 17:26:19 : host 203.162.121.120 up
+2015-02-22 17:26:19 : host 203.162.121.121 up
+2015-02-22 17:26:19 : host 203.162.121.122 up
+2015-02-22 17:26:19 : host 203.162.121.123 up
+2015-02-22 17:26:19 : host 203.162.121.124 up
+2015-02-22 17:26:19 : host 203.162.121.125 up
+2015-02-22 17:26:19 : host 203.162.121.126 up
+2015-02-22 17:26:19 : host 203.162.171.162 up
+2015-02-22 17:26:19 : host 203.162.171.163 up
+2015-02-22 17:26:19 : Host 203.162.171.163 is not exist in zabbix. Adding ...
+{"jsonrpc":"2.0","result":{"hostids":["10435"]},"id":1}
+2015-02-22 17:26:19 : host 203.162.171.164 up
+2015-02-22 17:26:19 : Host 203.162.171.164 is not exist in zabbix. Adding ...
+{"jsonrpc":"2.0","result":{"hostids":["10436"]},"id":1}
+2015-02-22 17:26:19 : host 203.162.171.165 up
+2015-02-22 17:26:19 : Host 203.162.171.165 is exist but not monitord by zabbix. Enabling ...
+{"jsonrpc":"2.0","result":{"hostids":["10349"]},"id":1}0
+2015-02-22 17:26:19 : host 203.162.171.166 up
+2015-02-22 17:26:19 : host 203.162.171.167 up
+2015-02-22 17:26:19 : Host 203.162.171.167 is exist but not monitord by zabbix. Enabling ...
+{"jsonrpc":"2.0","result":{"hostids":["10380"]},"id":1}0
+2015-02-22 17:26:19 : host 203.162.171.168 down
+2015-02-22 17:26:19 : host 203.162.171.169 down
+2015-02-22 17:26:19 : host 203.162.171.170 down
+2015-02-22 17:26:19 : host 203.162.171.171 up
+2015-02-22 17:26:19 : Host 203.162.171.171 is exist but not monitord by zabbix. Enabling ...
+{"jsonrpc":"2.0","result":{"hostids":["10384"]},"id":1}0
+2015-02-22 17:26:19 : host 203.162.171.172 up
+2015-02-22 17:26:19 : host 203.162.171.173 up
+2015-02-22 17:26:19 : host 203.162.171.174 up
+2015-02-22 17:26:19 : host 203.162.171.175 up
+2015-02-22 17:26:19 : Host 203.162.171.175 is exist but not monitord by zabbix. Enabling ...
+{"jsonrpc":"2.0","result":{"hostids":["10401"]},"id":1}0
+2015-02-22 17:26:19 : host 203.162.171.176 up
+2015-02-22 17:26:19 : host 203.162.171.177 up
+2015-02-22 17:26:19 : Host 203.162.171.177 is exist but not monitord by zabbix. Enabling ...
+{"jsonrpc":"2.0","result":{"hostids":["10389"]},"id":1}0
+2015-02-22 17:26:19 : host 203.162.171.178 up
+2015-02-22 17:26:19 : Host 203.162.171.178 is exist but not monitord by zabbix. Enabling ...
+{"jsonrpc":"2.0","result":{"hostids":["10390"]},"id":1}0
+2015-02-22 17:26:19 : host 203.162.171.179 down
+2015-02-22 17:26:19 : host 203.162.171.180 up
+2015-02-22 17:26:19 : host 203.162.171.181 up
+2015-02-22 17:26:19 : Host 203.162.171.181 is exist but not monitord by zabbix. Enabling ...
+{"jsonrpc":"2.0","result":{"hostids":["10391"]},"id":1}0
+2015-02-22 17:26:19 : host 203.162.171.182 down
+2015-02-22 17:26:19 : host 203.162.171.183 up
+2015-02-22 17:26:19 : host 203.162.171.184 up
+2015-02-22 17:26:19 : Host 203.162.171.184 is exist but not monitord by zabbix. Enabling ...
+{"jsonrpc":"2.0","result":{"hostids":["10394"]},"id":1}0
+2015-02-22 17:26:19 : host 203.162.171.185 up
+2015-02-22 17:26:19 : Host 203.162.171.185 is exist but not monitord by zabbix. Enabling ...
+{"jsonrpc":"2.0","result":{"hostids":["10332"]},"id":1}0
+2015-02-22 17:26:19 : host 203.162.171.186 up
+2015-02-22 17:26:19 : Host 203.162.171.186 is exist but not monitord by zabbix. Enabling ...
+{"jsonrpc":"2.0","result":{"hostids":["10333"]},"id":1}0
+2015-02-22 17:26:19 : host 203.162.171.187 up
+2015-02-22 17:26:19 : host 203.162.171.188 up
+2015-02-22 17:26:19 : Host 203.162.171.188 is exist but not monitord by zabbix. Enabling ...
+{"jsonrpc":"2.0","result":{"hostids":["10335"]},"id":1}0
+2015-02-22 17:26:19 : host 203.162.171.189 down
+2015-02-22 17:26:19 : host 203.162.171.190 up
+2015-02-22 17:26:19 : host 203.162.16.106 down
+2015-02-22 17:26:19 : host 203.162.16.107 up
+2015-02-22 17:26:19 : Host 203.162.16.107 is not exist in zabbix. Adding ...
+{"jsonrpc":"2.0","result":{"hostids":["10437"]},"id":1}
+2015-02-22 17:26:19 : host 203.162.16.108 down
+2015-02-22 17:26:19 : host 203.162.16.109 down
+2015-02-22 17:26:19 : host 203.162.16.110 down
+2015-02-22 17:26:19 : host 203.162.16.111 down
+2015-02-22 17:26:19 : host 203.162.16.112 down
+2015-02-22 17:26:19 : host 203.162.16.113 down
+2015-02-22 17:26:19 : host 203.162.16.114 down
+2015-02-22 17:26:19 : host 203.162.16.115 down
+2015-02-22 17:26:19 : host 203.162.16.116 down
+2015-02-22 17:26:19 : Host 203.162.16.116 is offline but still be monitored by zabbix. Disabling ...
+{"jsonrpc":"2.0","result":{"hostids":["10421"]},"id":1}0
+2015-02-22 17:26:19 : host 203.162.16.117 down
+2015-02-22 17:26:19 : Host 203.162.16.117 is offline but still be monitored by zabbix. Disabling ...
+{"jsonrpc":"2.0","result":{"hostids":["10419"]},"id":1}0
+2015-02-22 17:26:19 : host 203.162.16.118 down
+2015-02-22 17:26:19 : host 203.162.16.119 down
+2015-02-22 17:26:19 : host 203.162.16.120 down
+2015-02-22 17:26:19 : host 203.162.16.121 down
+2015-02-22 17:26:19 : host 203.162.16.122 down
+2015-02-22 17:26:19 : Host 203.162.16.122 is offline but still be monitored by zabbix. Disabling ...
+{"jsonrpc":"2.0","result":{"hostids":["10405"]},"id":1}0
+2015-02-22 17:26:19 : host 203.162.16.123 down
+2015-02-22 17:26:19 : Host 203.162.16.123 is offline but still be monitored by zabbix. Disabling ...
+{"jsonrpc":"2.0","result":{"hostids":["10406"]},"id":1}0
+2015-02-22 17:26:19 : host 203.162.16.124 down
+2015-02-22 17:26:19 : Host 203.162.16.124 is offline but still be monitored by zabbix. Disabling ...
+{"jsonrpc":"2.0","result":{"hostids":["10412"]},"id":1}0
+2015-02-22 17:26:19 : host 203.162.16.125 down
+2015-02-22 17:26:19 : Host 203.162.16.125 is offline but still be monitored by zabbix. Disabling ...
+{"jsonrpc":"2.0","result":{"hostids":["10414"]},"id":1}0
+2015-02-22 17:26:19 : host 203.162.16.126 down
+2015-02-22 17:26:19 : Host 203.162.16.126 is offline but still be monitored by zabbix. Disabling ...
+{"jsonrpc":"2.0","result":{"hostids":["10415"]},"id":1}0
+2015-02-22 17:26:19 : host 203.162.16.127 down
+2015-02-22 17:26:19 : Host 203.162.16.127 is offline but still be monitored by zabbix. Disabling ...
+{"jsonrpc":"2.0","result":{"hostids":["10416"]},"id":1}0
+2015-02-22 17:26:19 : host 203.162.16.128 down
+2015-02-22 17:26:19 : Host 203.162.16.128 is offline but still be monitored by zabbix. Disabling ...
+{"jsonrpc":"2.0","result":{"hostids":["10417"]},"id":1}0
+2015-02-22 17:26:19 : host 203.162.16.129 down
+2015-02-22 17:26:19 : Host 203.162.16.129 is offline but still be monitored by zabbix. Disabling ...
+{"jsonrpc":"2.0","result":{"hostids":["10418"]},"id":1}0
+2015-02-22 17:26:19 : host 203.162.16.130 down
+2015-02-22 17:26:19 : Host 203.162.16.130 is offline but still be monitored by zabbix. Disabling ...
+{"jsonrpc":"2.0","result":{"hostids":["10423"]},"id":1}0
+2015-02-22 17:26:19 : host 203.162.16.131 down
+2015-02-22 17:26:19 : Host 203.162.16.131 is offline but still be monitored by zabbix. Disabling ...
+{"jsonrpc":"2.0","result":{"hostids":["10424"]},"id":1}0
+2015-02-22 17:26:19 : host 203.162.16.132 down
+2015-02-22 17:26:19 : Host 203.162.16.132 is offline but still be monitored by zabbix. Disabling ...
+{"jsonrpc":"2.0","result":{"hostids":["10420"]},"id":1}0
+2015-02-22 17:26:19 : host 203.162.16.133 down
+2015-02-22 17:26:19 : Host 203.162.16.133 is offline but still be monitored by zabbix. Disabling ...
+{"jsonrpc":"2.0","result":{"hostids":["10413"]},"id":1}0
+2015-02-22 17:26:19 : host 203.162.16.134 up
+2015-02-22 17:26:19 : host 203.162.16.135 down
+2015-02-22 17:26:19 : Host 203.162.16.135 is offline but still be monitored by zabbix. Disabling ...
+{"jsonrpc":"2.0","result":{"hostids":["10422"]},"id":1}0
+2015-02-22 17:26:19 : host 203.162.16.136 down
+2015-02-22 17:26:19 : host 203.162.16.137 up
+2015-02-22 17:26:19 : Host 203.162.16.137 is not exist in zabbix. Adding ...
+{"jsonrpc":"2.0","result":{"hostids":["10438"]},"id":1}
+############ 2015-02-22 17:26:19 Finish check host ############
